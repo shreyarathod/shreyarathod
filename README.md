@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shreya!
-🎓 Computer Engineering Student<br>👩🏻‍💻MERN Stack Developer<br>🚀Currently Learning : Deep Learning, Computer Vision.<br>
+🎓 Computer Engineering Student<br>🚀Currently Learning : Deep Learning, Computer Vision.<br>
 
 
 ## 🌐 Socials:
