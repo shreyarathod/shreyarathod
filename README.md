@@ -13,7 +13,8 @@
 ## 💼 About Me:
 I am passionate about **AI, Machine Learning**, and **Web Development**. My work revolves around creating **real-world solutions**, participating in **hackathons**, and exploring **AI-powered innovations**.  
 
-- 🥈 **2nd Place** - Bit & Build International Hackathon  
+- 🥈 **2nd Place** - Bit & Build International Hackathon
+- 🥈 **2nd Place** - Hackanova 4.0 National Hackathon
 - 💡 **Interned** as a Machine Learning Developer at Aim4U Software Solutions  
 - 👥 Head of Operations at **Enactus SPIT** | Head of Public Relations at **Oculus SPIT**
 
